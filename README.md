@@ -1,2 +1,2 @@
 # mlsc
-Miscellaneous machine learning problems
+Miscellaneous data analysis and machine learning problems
